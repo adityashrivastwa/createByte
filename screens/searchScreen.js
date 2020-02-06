@@ -139,7 +139,8 @@ const styles = {
     backgroundColor: "#5B5D72",
     textAlign: "left",
     paddingLeft: 10,
-    color: "white"
+    color: "white",
+    marginBottom: 10
   },
   button: {
     width: 250,
